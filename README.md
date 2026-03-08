@@ -22,6 +22,7 @@ Gracias al usuario elcazadorhunter se han corregido las sigueintes palabras:
 - Cubierta para la cabeza --> Proteccion cabeza
 - Artículo principal / Artículo secundario --> Objeto principal / Objeto secundario
 - Club --> Palo (seria garrote pero tenemos espacio limitado)
-- Calificación --> Aceptable
+- Calificación --> Calidad
+- Justo --> Aceptable
 - Puntos de experiencia --> Puntos experiencia
 - Puntos de estadísticas --> Lo hemos dejado igual por temas de NPCs
