@@ -1,4 +1,4 @@
-# 🖖🏻 PRESENTACIÓN 
+# 🖖🏻 PRESENTACIÓN
 
 Hola,
 
@@ -6,22 +6,22 @@ Esto es una traducción fan para poder jugar y esta generada automaticamente con
 
 Puede contener errores y demas pero si alguno sabe poco inglés al menos puede disfrutar el título.
 
-# ✍🏻 INSTRUCCIONES
+# Estado actiual
 
-Suuuuuuuuperbásico para todo el mundo
+Finalmente se añadio esta traduccion al juego de manera oficial, pero mantengo el repo por si facilita las actualizaciones.
 
-1) Ve a la carpeta donde tengas el juego (lo mas sencillo es hacer click derecho sobre el juego en steam y ver archivos locales, algo asi: /Steam/steamapps/common/Islands of the Caliph/)
+https://store.steampowered.com/news/app/1845670/view/510733119952783611?l=spanish
 
-Alli encontras una carpeta /strings y dentro tres carpetas:
+# Changelog
 
-/Chinese
-/German
-/English
+## 08/03/2026
 
-2) Renombra la carpeta /German como /German_old para conservar los archivos originales.
+Gracias al usuario elcazadorhunter se han corregido las sigueintes palabras:
 
-3) Crea una nueva carpeta /German y pega dentro todo el contenido de la carpeta /Spanish translation
-
-4) Inicia al juego y selecciona el idioma Alemán
-
-5) 🎲 Ale a jugar! 
+Velocidad de giro --> Vel. de Giro
+Cubierta para la cabeza --> Proteccion cabeza
+Artículo principal / Artículo secundario --> Objeto principal / Objeto secundario
+Club --> Palo (seria garrote pero tenemos espacio limitado)
+Calificación --> Aceptable
+Puntos de experiencia --> Puntos experiencia
+Puntos de estadísticas --> Lo hemos dejado igual por temas de NPCs
