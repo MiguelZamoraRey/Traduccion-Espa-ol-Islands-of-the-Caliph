@@ -1,4 +1,4 @@
-# 🖖🏻 PRESENTACIÓN
+# 🖖🏻 PRESENTACIÓN - ESP
 
 Hola,
 
@@ -6,9 +6,23 @@ Esto es una traducción fan para poder jugar y esta generada automaticamente con
 
 Puede contener errores y demas pero si alguno sabe poco inglés al menos puede disfrutar el título.
 
-# Estado actiual
+# Estado actiual - ESP
 
 Finalmente se añadio esta traduccion al juego de manera oficial, pero mantengo el repo por si facilita las actualizaciones.
+
+https://store.steampowered.com/news/app/1845670/view/510733119952783611?l=spanish
+
+# 🖖🏻 INTRODUCTION - ENG
+
+Hello,
+
+This is a fan translation for gameplay purposes, generated automatically with some corrections on my part.
+
+It may contain errors and other issues, but if you don't know much English, at least you can enjoy the title.
+
+# Current status - ENG
+
+This translation has finally been officially added to the game, but I am keeping the repo in case it facilitates updates.
 
 https://store.steampowered.com/news/app/1845670/view/510733119952783611?l=spanish
 
