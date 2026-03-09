@@ -28,6 +28,12 @@ https://store.steampowered.com/news/app/1845670/view/510733119952783611?l=spanis
 
 # Changelog
 
+## 09/03/2026
+
+Gracias al usuario elcazadorhunter se han corregido las sigueintes palabras:
+
+- Velocidad de giro --> Vel. ataque
+
 ## 08/03/2026
 
 Gracias al usuario elcazadorhunter se han corregido las sigueintes palabras:
